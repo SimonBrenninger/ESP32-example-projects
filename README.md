@@ -1,4 +1,4 @@
-# STM32F4 example projects
+# ESP32 example projects
 
 ## Description
 
